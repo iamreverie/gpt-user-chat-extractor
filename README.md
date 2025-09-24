@@ -1,7 +1,7 @@
 
 # ChatGPT User Prompt Extractor
 
-A Python CLI tool to extract user prompts from ChatGPT conversation JSON exports. Given a ChatGPT JSON file, this script extracts all messages where the role is user, filters by an optional starting date, and outputs the results in a clean, timestamped text format.
+A Python CLI tool to extract user prompts from ChatGPT conversation JSON exports. Given a ChatGPT JSON file, this script extracts all messages where the **ROLE IS USER**, filters by an optional starting date, and outputs the results in a clean, timestamped text format.
 
 
 ## Features
